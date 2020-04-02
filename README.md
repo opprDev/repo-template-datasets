@@ -2,7 +2,7 @@
 
 <img src="assets/banner_468x60.png" width="100%" />
 
-[![MIT](https://flat.badgen.net/github/license/opprDev/repo-template-datasets)](https://github.com/opprDev/repo-template-datasets/blob/master/LICENSE)
+[![AGPLv3](https://flat.badgen.net/github/license/opprDev/repo-template-datasets)](https://github.com/opprDev/repo-template-datasets/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/opprDev/repo-template-datasets?style=flat-square)](https://github.com/opprDev/repo-template-datasets/commits/master)
 [![HitCount](http://hits.dwyl.io/opprDev/repo-template-datasets.svg)](http://hits.dwyl.io/opprDev/repo-template-datasets)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
@@ -18,6 +18,7 @@ TODO
 * [Usage](#Usage)
 * [Roadmap](#Roadmap)
 * [Contribution](#Contribution)
+* [Team](#Team)
 * [Acknowledgements](#Acknowledgements)
 * [License](#License)
 
@@ -35,6 +36,8 @@ Here are some tutorials and documentation, if needed, to feel more comfortable a
 * [GitHub Quick Tutorial](https://guides.github.com/activities/hello-world/)
 
 ## Usage
+
+Usage follow the instructions here to setup the current repository and extract the present data. To understand how the hereby repository is used for, read the following steps.
 
 ### Installation
 
@@ -75,6 +78,24 @@ This project exists thanks to all the people who [contribute](CONTRIBUTING.md). 
 Either as something that seems missing or any need for support, just open a [new issue](https://github.com/opprDev/repo-template-datasets/issues/new). Regardless of being a simple request or a fully-structured feature, we will do our best to understand them and, eventually, solve them.
 
 ### Developer
+
+We like to develop, but we also like collaboration. You could ask us to add some features... Or you could want to do it yourself and fork this repository. Maybe even do some side-project of your own. If the latter ones, please let us share some insights about what we currently have.
+
+## Team
+
+### Authors
+
+* Francisco Maria Calisto [ [Website](http://www.franciscocalisto.me/) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Maria_Calisto) | [GitHub](https://github.com/FMCalisto) | [Twitter](https://twitter.com/FMCalisto) | [LinkedIn](https://www.linkedin.com/in/fmcalisto/) ]
+
+* Luís Ribeiro Gomes
+
+### Contributors
+
+* Bruno Oliveira
+* Carlos Santiago
+* Jacinto C. Nascimento
+* Pedro Miraldo
+* Nuno Nunes
 
 ## License & Copyright
 
