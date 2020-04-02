@@ -2,7 +2,7 @@
 
 <img src="assets/banner_468x60.png" width="100%" />
 
-[![AGPL-3.0](https://img.shields.io/github/license/opprDev/repo-template-datasets?label=AGPL-3.0)](https://github.com/opprDev/repo-template-datasets/blob/master/LICENSE)
+[![AGPL-3.0](https://img.shields.io/github/license/opprDev/repo-template-datasets?label=license&logoColor=AGPL-3.0&style=flat-square)](https://github.com/opprDev/repo-template-datasets/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/opprDev/repo-template-datasets?style=flat-square)](https://github.com/opprDev/repo-template-datasets/commits/master)
 [![HitCount](http://hits.dwyl.io/opprDev/repo-template-datasets.svg)](http://hits.dwyl.io/opprDev/repo-template-datasets)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
