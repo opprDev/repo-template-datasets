@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; url='https://opprdev.github.io/repo-template-datasets/web/index.html'" />
+
 # Datasets Repository Template
 
 <img src="assets/banner_468x60.png" width="100%" />
@@ -10,7 +12,9 @@
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
 [![Twitter](https://flat.badgen.net/twitter/follow/opprGroup)](https://twitter.com/opprGroup)
 
-## Citing Master Project
+Several *datasets* are fostering innovation in higher-level functions for everyone, everywhere. By providing this repository, we hope to encourage the research community to focus on hard problems. In this repository, we aim to provide a template repository for *datasets*. The repository was developed by a community of people under the [opprDev](https://dev.oppr.io/) Team from [oppr](https://oppr.io/). This template will be used in [BreastScreening](https://breastscreening.github.io/), [MIDA](https://mida-project.github.io/) and [MIMBCD-UI](https://mimbcd-ui.github.io/) projects.
+
+## Citing
 
 We kindly ask **scientific works and studies** that make use of the repository to cite it in their associated publications. Similarly, we ask **open-source** and **closed-source** works that make use of the repository to warn us about this use.
 
