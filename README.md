@@ -109,6 +109,12 @@ The following list, represents the set of related repositories for the presented
 
 To publish our [datasets](https://www.kaggle.com/opprDev) we used a well known platform called [Kaggle](https://www.kaggle.com). To access our project's [Profile Page](https://www.kaggle.com/opprDev) just follow the [link](https://www.kaggle.com/opprDev).
 
+### License & Copyright
+
+Copyright &copy; 2019 [oppr](https://oppr.io)
+
+The [`repo-template-datasets`](https://github.com/opprDev/repo-template-datasets) repository is distributed under the terms of [GNU AGPLv3](LICENSE) license and [CC-BY-SA-4.0](COPYING) copyright. Permissions of this license are conditioned on making available complete elements from this repository of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved.
+
 ### Team
 
 Our team brings everything together sharing ideas and the same purpose, developing even better work. In this section, we will nominate the full list of important people for this repository, as well as respective links.
@@ -119,7 +125,7 @@ Our team brings everything together sharing ideas and the same purpose, developi
 
 * Luís Ribeiro Gomes
 
-#### Contributors
+#### Participants
 
 * Bruno Oliveira
 * Carlos Santiago
@@ -140,12 +146,6 @@ Our organization is a non-profit organization. However, we have many needs acros
 #### Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-
-<span>
-  <a href="graphs/contributors">
-    <img src="https://opencollective.com/oppr/contributors.svg?width=890" />
-  </a>
-</span>
 
 #### Backers
 
@@ -248,9 +248,3 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
     <img src="https://github.com/mida-project/meta/blob/master/brands/pt_footer.png" alt="pt" width="20%" />
   </a>
 </span>
-
-## License & Copyright
-
-Copyright &copy; 2019 [oppr](https://oppr.io)
-
-The [`repo-template-datasets`](https://github.com/opprDev/repo-template-datasets) repository is distributed under the terms of [GNU AGPLv3](LICENSE) license and [CC-BY-SA-4.0](COPYING) copyright. Permissions of this license are conditioned on making available complete elements from this repository of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved.
