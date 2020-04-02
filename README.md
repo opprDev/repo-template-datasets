@@ -10,7 +10,15 @@
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
 [![Twitter](https://flat.badgen.net/twitter/follow/opprGroup)](https://twitter.com/opprGroup)
 
-TODO
+## Citing Master Project
+
+We kindly ask **scientific works and studies** that make use of the repository to cite it in their associated publications. Similarly, we ask **open-source** and **closed-source** works that make use of the repository to warn us about this use.
+
+You can cite our work using the following BibTeX entry:
+
+```
+
+```
 
 ## Table of contents
 
@@ -69,7 +77,7 @@ We need to follow the repository goal, by addressing the thereby information. Th
 
 Besides that, one of our goals involves creating a configuration file to automatically test and publish our code to pip or any other package manager. It will be most likely prepared for the [GitHub Actions](https://github.com/features/actions). Other goals may be written here in the future.
 
-## Contribution
+## Contributing
 
 This project exists thanks to all the people who [contribute](CONTRIBUTING.md). We welcome everyone who wants to help us improve this downloader. As follows, we present some suggestions.
 
@@ -81,21 +89,165 @@ Either as something that seems missing or any need for support, just open a [new
 
 We like to develop, but we also like collaboration. You could ask us to add some features... Or you could want to do it yourself and fork this repository. Maybe even do some side-project of your own. If the latter ones, please let us share some insights about what we currently have.
 
-## Team
+## Information
 
-### Authors
+The current information will summarize important items of this repository. In this section, we address all fundamental items that were crucial to the current information.
+
+### Related Repositories
+
+The following list, represents the set of related repositories for the presented one:
+
+- [`dataset-uta4-sus`](https://github.com/MIMBCD-UI/dataset-uta4-sus)
+
+- [`dataset-uta4-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta4-nasa-tlx)
+
+- [`dataset-uta4-time`](https://github.com/MIMBCD-UI/dataset-uta4-time)
+
+- [`dataset-uta4-rates`](https://github.com/MIMBCD-UI/dataset-uta4-rates)
+
+### Dataset Resources
+
+To publish our [datasets](https://www.kaggle.com/opprDev) we used a well known platform called [Kaggle](https://www.kaggle.com). To access our project's [Profile Page](https://www.kaggle.com/opprDev) just follow the [link](https://www.kaggle.com/opprDev).
+
+### Team
+
+Our team brings everything together sharing ideas and the same purpose, developing even better work. In this section, we will nominate the full list of important people for this repository, as well as respective links.
+
+#### Authors
 
 * Francisco Maria Calisto [ [Website](http://www.franciscocalisto.me/) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Maria_Calisto) | [GitHub](https://github.com/FMCalisto) | [Twitter](https://twitter.com/FMCalisto) | [LinkedIn](https://www.linkedin.com/in/fmcalisto/) ]
 
 * Luís Ribeiro Gomes
 
-### Contributors
+#### Contributors
 
 * Bruno Oliveira
 * Carlos Santiago
 * Jacinto C. Nascimento
 * Pedro Miraldo
 * Nuno Nunes
+
+### Supporting
+
+Our organization is a non-profit organization. However, we have many needs across our activity. From infrastructure to service needs, we need some time and contribution, as well as help, to support our team and projects.
+
+<span>
+  <a href="https://opencollective.com/oppr" target="_blank">
+    <img src="https://opencollective.com/oppr/tiers/backer.svg" width="220">
+  </a>
+</span>
+
+#### Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+
+<span>
+  <a href="graphs/contributors">
+    <img src="https://opencollective.com/oppr/contributors.svg?width=890" />
+  </a>
+</span>
+
+#### Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/oppr#backer)]
+
+<span>
+  <a href="https://opencollective.com/oppr#backers" target="_blank">
+    <img src="https://opencollective.com/oppr/backers.svg?width=890">
+  </a>
+</span>
+
+#### Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/oppr#sponsor)]
+
+<span>
+  <a href="https://opencollective.com/oppr/sponsor/0/website" target="_blank">
+    <img src="https://opencollective.com/oppr/sponsor/0/avatar.svg">
+  </a>
+</span>
+
+<br />
+
+<span>
+  <a href="http://www.fct.pt/" title="FCT" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/fct_footer.png" alt="fct" width="20%" />
+  </a>
+</span>
+<span>
+  <a href="https://www.fccn.pt/en/" title="FCCN" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/fccn_footer.png" alt="fccn" width="20%" />
+  </a>
+</span>
+<span>
+  <a href="https://www.ulisboa.pt/en/" title="ULisboa" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/ulisboa_footer.png" alt="ulisboa" width="20%" />
+  </a>
+</span>
+<span>
+  <a href="http://tecnico.ulisboa.pt/" title="IST" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/ist_footer.png" alt="ist" width="20%" />
+  </a>
+</span>
+<span>
+  <a href="http://hff.min-saude.pt/" title="HFF" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/hff_footer.png" alt="hff" width="20%" />
+  </a>
+</span>
+
+##### Departments
+
+<span>
+  <a href="http://dei.tecnico.ulisboa.pt" title="DEI" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/dei_footer.png" alt="dei" width="20%" />
+  </a>
+</span>
+<span>
+  <a href="http://deec.tecnico.ulisboa.pt" title="DEEC" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/deec_footer.png" alt="dei" width="20%" />
+  </a>
+</span>
+
+##### Laboratories
+
+<span>
+  <a href="http://sipg.isr.tecnico.ulisboa.pt/" title="SIPG" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/sipg_footer.png" alt="sipg" width="20%" />
+  </a>
+</span>
+<span>
+  <a href="http://welcome.isr.tecnico.ulisboa.pt/" title="ISR" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/isr-lisboa_footer.png" alt="isr" width="20%" />
+  </a>
+</span>
+<span>
+  <a href="http://larsys.pt/" title="LARSys" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/larsys_footer.png" alt="larsys" width="20%" />
+  </a>
+</span>
+<span>
+  <a href="https://www.m-iti.org/" title="M-ITI" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/iti_footer.png" alt="iti" width="20%" />
+  </a>
+</span>
+<span>
+  <a href="http://www.inesc-id.pt/" title="INESC-ID" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/inesc-id_footer.png" alt="inesc-id" width="20%" />
+  </a>
+</span>
+
+##### Domain
+
+<span>
+  <a href="https://europa.eu/" title="EU" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/eu_footer.png" alt="eu" width="20%" />
+  </a>
+</span>
+<span>
+  <a href="https://www.portugal.gov.pt/" title="Portugal" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/pt_footer.png" alt="pt" width="20%" />
+  </a>
+</span>
 
 ## License & Copyright
 
