@@ -68,7 +68,7 @@ Optionally, the module/directory can be installed into the designated Python int
 Please, feel free to try out our demo. It is a script called `demo.py` at the src/demo directory. It can be used as follows:
 
 ```bash
-python demo.py
+python src/demo.py
 ```
 
 Just keep in mind this is just a demo, so it does nothing more than downloading data to an arbitrary destination directory if the directory does not exist or does not have any content. Also, we did our best to make the demo as user-friendly as possible, so, above everything else, have fun! 😁
