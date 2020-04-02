@@ -169,82 +169,82 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 <br />
 
-<div>
+<span>
   <a href="http://www.fct.pt/" title="FCT" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/fct_footer.png" alt="fct" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/fct_footer.png?raw=true" alt="fct" width="20%" />
   </a>
-</div>
-<div>
+</span>
+<span>
   <a href="https://www.fccn.pt/en/" title="FCCN" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/fccn_footer.png" alt="fccn" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/fccn_footer.png?raw=true" alt="fccn" width="20%" />
   </a>
-</div>
-<div>
+</span>
+<span>
   <a href="https://www.ulisboa.pt/en/" title="ULisboa" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/ulisboa_footer.png" alt="ulisboa" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/ulisboa_footer.png?raw=true" alt="ulisboa" width="20%" />
   </a>
-</div>
-<div>
+</span>
+<span>
   <a href="http://tecnico.ulisboa.pt/" title="IST" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/ist_footer.png" alt="ist" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/ist_footer.png?raw=true" alt="ist" width="20%" />
   </a>
-</div>
-<div>
+</span>
+<span>
   <a href="http://hff.min-saude.pt/" title="HFF" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/hff_footer.png" alt="hff" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/hff_footer.png?raw=true" alt="hff" width="20%" />
   </a>
-</div>
+</span>
 
 ##### Departments
 
-<div>
+<span>
   <a href="http://dei.tecnico.ulisboa.pt" title="DEI" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/dei_footer.png" alt="dei" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/dei_footer.png?raw=true" alt="dei" width="20%" />
   </a>
-</div>
-<div>
+</span>
+<span>
   <a href="http://deec.tecnico.ulisboa.pt" title="DEEC" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/deec_footer.png" alt="dei" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/deec_footer.png?raw=true" alt="dei" width="20%" />
   </a>
-</div>
+</span>
 
 ##### Laboratories
 
-<div>
+<span>
   <a href="http://sipg.isr.tecnico.ulisboa.pt/" title="SIPG" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/sipg_footer.png" alt="sipg" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/sipg_footer.png?raw=true" alt="sipg" width="20%" />
   </a>
-</div>
-<div>
+</span>
+<span>
   <a href="http://welcome.isr.tecnico.ulisboa.pt/" title="ISR" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/isr-lisboa_footer.png" alt="isr" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/isr-lisboa_footer.png?raw=true" alt="isr" width="20%" />
   </a>
-</div>
-<div>
+</span>
+<span>
   <a href="http://larsys.pt/" title="LARSys" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/larsys_footer.png" alt="larsys" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/larsys_footer.png?raw=true" alt="larsys" width="20%" />
   </a>
-</div>
-<div>
+</span>
+<span>
   <a href="https://www.m-iti.org/" title="M-ITI" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/iti_footer.png" alt="iti" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/iti_footer.png?raw=true" alt="iti" width="20%" />
   </a>
-</div>
-<div>
+</span>
+<span>
   <a href="http://www.inesc-id.pt/" title="INESC-ID" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/inesc-id_footer.png" alt="inesc-id" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/inesc-id_footer.png?raw=true" alt="inesc-id" width="20%" />
   </a>
-</div>
+</span>
 
 ##### Domain
 
-<div>
+<span>
   <a href="https://europa.eu/" title="EU" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/eu_footer.png" alt="eu" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/eu_footer.png?raw=true" alt="eu" width="20%" />
   </a>
-</div>
-<div>
+</span>
+<span>
   <a href="https://www.portugal.gov.pt/" title="Portugal" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/pt_footer.png" alt="pt" width="20%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/pt_footer.png?raw=true" alt="pt" width="20%" />
   </a>
-</div>
+</span>
