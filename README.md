@@ -1,6 +1,6 @@
 # Datasets Repository Template
 
-<img src="assets/banner.png" width="100%" />
+<img src="assets/banner_468x60.png" width="100%" />
 
 [![MIT](https://flat.badgen.net/github/license/opprDev/repo-template-datasets)](https://github.com/opprDev/repo-template-datasets/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/opprDev/repo-template-datasets?style=flat-square)](https://github.com/opprDev/repo-template-datasets/commits/master)
