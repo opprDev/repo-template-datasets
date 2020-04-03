@@ -4,13 +4,13 @@
 
 <img src="assets/banner_468x60.png" width="100%" />
 
-[![DOI](https://zenodo.org/badge/252470291.svg?style=flat-square)](https://zenodo.org/badge/latestdoi/252470291)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/opprDev/repo-template-datasets/blob/master/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/opprDev/repo-template-datasets?style=flat-square)](https://github.com/opprDev/repo-template-datasets/commits/master)
+[![DOI](https://zenodo.org/badge/252470291.svg)](https://zenodo.org/badge/latestdoi/252470291)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://github.com/opprDev/repo-template-datasets/blob/master/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/opprDev/repo-template-datasets)](https://github.com/opprDev/repo-template-datasets/commits/master)
 [![HitCount](http://hits.dwyl.io/opprDev/repo-template-datasets.svg)](http://hits.dwyl.io/opprDev/repo-template-datasets)
-[![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
-[![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg?style=flat-square)](#sponsors)
-[![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
+[![OpenCollective](https://opencollective.com/oppr/backers/badge.svg)](#backers)
+[![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg)](#sponsors)
+[![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg)](https://gitter.im/opprTeam)
 [![Twitter](https://flat.badgen.net/twitter/follow/opprGroup)](https://twitter.com/opprGroup)
 
 Several *datasets* are fostering innovation in higher-level functions for everyone, everywhere. By providing this repository, we hope to encourage the research community to focus on hard problems. In this repository, we aim to provide a template repository for *datasets*. The repository was developed by a community of people under the [opprDev](https://dev.oppr.io/) Team from [oppr](https://oppr.io/). This template will be used in [BreastScreening](https://breastscreening.github.io/), [MIDA](https://mida-project.github.io/) and [MIMBCD-UI](https://mimbcd-ui.github.io/) projects.
