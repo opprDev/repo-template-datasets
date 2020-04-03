@@ -73,7 +73,7 @@ Optionally, the module/directory can be installed into the designated Python int
 
 ### Demonstration
 
-Please, feel free to try out our demo. It is a script called `demo.py` at the src/demo directory. It can be used as follows:
+Please, feel free to try out our demo. It is a script called `demo.py` at the `src/` directory. It can be used as follows:
 
 ```bash
 python src/demo.py
