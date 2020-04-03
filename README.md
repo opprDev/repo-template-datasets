@@ -22,7 +22,14 @@ We kindly ask **scientific works and studies** that make use of the repository t
 You can cite our work using the following BibTeX entry:
 
 ```
-
+@misc{https://doi.org/10.5281/zenodo.3738763,
+  doi = {10.5281/ZENODO.3738763},
+  url = {https://zenodo.org/record/3738763},
+  author = {Calisto,  Francisco Maria},
+  title = {opprDev/repo-template-datasets: v0.1.1-alpha},
+  publisher = {Zenodo},
+  year = {2020}
+}
 ```
 
 ## Table of contents
