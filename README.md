@@ -4,6 +4,7 @@
 
 <img src="assets/banner_468x60.png" width="100%" />
 
+[![DOI](https://zenodo.org/badge/252470291.svg?style=flat-square)](https://zenodo.org/badge/latestdoi/252470291)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/opprDev/repo-template-datasets/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/opprDev/repo-template-datasets?style=flat-square)](https://github.com/opprDev/repo-template-datasets/commits/master)
 [![HitCount](http://hits.dwyl.io/opprDev/repo-template-datasets.svg)](http://hits.dwyl.io/opprDev/repo-template-datasets)
