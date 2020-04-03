@@ -37,10 +37,10 @@ You can cite our work using the following BibTeX entry:
 * [Prerequisites](#Prerequisites)
 * [Usage](#Usage)
 * [Roadmap](#Roadmap)
-* [Contribution](#Contribution)
+* [Contributing](#Contributing)
+* [License & Copyright](#License--Copyright)
 * [Team](#Team)
 * [Acknowledgements](#Acknowledgements)
-* [License](#License)
 
 ## Prerequisites
 
